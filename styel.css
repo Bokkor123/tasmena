@@ -1,0 +1,46 @@
+h1{
+    color: blueviolet;
+    
+}
+h2{
+    color: deeppink;
+}
+h3{
+    color: darkorchid;
+}h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+.flexble-cotainer{
+    display: flex;
+    margin-bottom:100px;
+}
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: black;
+    color:white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/images\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
